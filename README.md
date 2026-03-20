@@ -36,10 +36,10 @@
 class Okkoto03:
     def __init__(self):
         self.nom        = "Okkoto03"
-        self.rôle       = "Enfant de la forêt numérique 🌲"
-        self.langages   = ["Python 🐍", "Bash 🐚"]
-        self.domaines   = ["Cybersécurité 🗡️", "Pentest", "Cryptographie", "Reverse Engineering"]
-        self.philosophie = "La forêt et les humains peuvent coexister"
+        self.rôle       = "un vrai sanglier"
+        self.langages   = ["Python ", "Bash "]
+        self.domaines   = ["Cyber", "Pentest", "Cryptographie", "Reverse Engineering"]
+        self.philosophie = "il ne peux avoir deux sanglier dans la meme forêt"
 
     def saluer(self):
         return "「生きろ」— Vis."
@@ -52,14 +52,13 @@ class Okkoto03:
 <div align="center">
 
 ### 🐍 Développement
-![Python](https://img.shields.io/badge/Python-1a3a1a?style=for-the-badge&logo=python&logoColor=c8e6c9)
-![Bash](https://img.shields.io/badge/Bash-2d5a27?style=for-the-badge&logo=gnubash&logoColor=c8e6c9)
-![Linux](https://img.shields.io/badge/Linux-4a7c59?style=for-the-badge&logo=linux&logoColor=c8e6c9)
-
+![Python]
+![Bash]
+![Linux]
 ### 🗡️ Cybersécurité — L'art du guerrier
-![Pentest](https://img.shields.io/badge/Pentest-1a3a1a?style=for-the-badge&logo=kalilinux&logoColor=c8e6c9)
-![Cryptographie](https://img.shields.io/badge/Crypto-2d5a27?style=for-the-badge&logo=gnupg&logoColor=c8e6c9)
-![Reverse](https://img.shields.io/badge/Reverse_Engineering-4a7c59?style=for-the-badge&logo=ghidra&logoColor=c8e6c9)
+![Pentest]
+![Cryptographie]
+![Reverse]
 
 </div>
 
@@ -68,17 +67,7 @@ class Okkoto03:
 ## 🌲 Forêts explorées
 
 <div align="center">
-
-```
-                    🌳
-                   🌲🌲
-                  🌲🌿🌲
-                 🌲🌿🌿🌲
-      [Pentest] 🗡️    🏹 [Reverse]
-                 ⛩️  🧿
-              [Crypto] 🔐
-```
-
+    
 | Domaine | Outils | Niveau |
 |--------|--------|--------|
 | 🗡️ Pentest | Nmap · Burp Suite · Metasploit | `▓▓▓▓░` En apprentissage |
@@ -113,12 +102,7 @@ class Okkoto03:
 
 <div align="center">
 
-> *« Je veux que tu vives. »*
-> — **Ashitaka**, Princesse Mononoké
-
-```
-🐺 Mononoke · 🌿 Forêt · ⚔️ Code · 🔐 Secrets
-```
+> *« L'or pur durcit les coeurs les plus tendres. »*
 
 </div>
 
@@ -127,7 +111,5 @@ class Okkoto03:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d5a27,1a3a1a,4a7c59&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*~ Kodamas were here ~* 🤍
 
 </div>
