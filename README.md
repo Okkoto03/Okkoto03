@@ -51,12 +51,12 @@ class Okkoto03:
 
 <div align="center">
 
-### 🐍 Développement
+###  Développement
 ![Python](https://img.shields.io/badge/Python-1a3a1a?style=for-the-badge&logo=python&logoColor=c8e6c9)
 ![Bash](https://img.shields.io/badge/Bash-2d5a27?style=for-the-badge&logo=gnubash&logoColor=c8e6c9)
 ![Linux](https://img.shields.io/badge/Linux-4a7c59?style=for-the-badge&logo=linux&logoColor=c8e6c9)
 
-### 🗡️ Cybersécurité — L'art du guerrier
+###  Cybersécurité — L'art du guerrier
 ![Pentest](https://img.shields.io/badge/Pentest-1a3a1a?style=for-the-badge&logo=kalilinux&logoColor=c8e6c9)
 ![Cryptographie](https://img.shields.io/badge/Crypto-2d5a27?style=for-the-badge&logo=gnupg&logoColor=c8e6c9)
 ![Reverse](https://img.shields.io/badge/Reverse_Engineering-4a7c59?style=for-the-badge&logo=ghidra&logoColor=c8e6c9)
@@ -64,7 +64,7 @@ class Okkoto03:
 
 ---
 
-## 🌲 Forêts explorées
+## 🌲 Explorées
 
 <div align="center">
     
