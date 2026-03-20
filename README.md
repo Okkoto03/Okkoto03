@@ -30,7 +30,7 @@
 
 ---
 
-## 🌿 Qui suis-je ?
+##  Qui suis-je ?
 
 ```python
 class Okkoto03:
@@ -47,7 +47,7 @@ class Okkoto03:
 
 ---
 
-## ⚔️ Compétences
+##  Compétences
 
 <div align="center">
 
@@ -64,17 +64,17 @@ class Okkoto03:
 
 ---
 
-## 🌲 Explorées
+##  Explorées
 
 <div align="center">
     
 | Domaine | Outils | Niveau |
 |--------|--------|--------|
-| 🗡️ Pentest | Nmap · Burp Suite · Metasploit | `▓▓▓▓░` En apprentissage |
-| 🔐 Crypto | Hashcat · OpenSSL · PyCrypto | `▓▓▓▓░` En apprentissage |
-| 🔍 Reverse | Ghidra · GDB · pwntools | `▓▓▓░░` En apprentissage |
-| 🐍 Python | Scripts · Automation · Exploit | `▓▓▓▓░` En progression |
-| 🐚 Bash | Scripting · Admin sys | `▓▓▓░░` Solide |
+|  Pentest | Nmap · Burp Suite · Metasploit | `▓▓▓▓░` En apprentissage |
+|  Crypto | Hashcat · OpenSSL · PyCrypto | `▓▓▓▓░` En apprentissage |
+|  Reverse | Ghidra · GDB · pwntools | `▓▓▓░░` En apprentissage |
+| Python | Scripts · Automation · Exploit | `▓▓▓▓░` En progression |
+|  Bash | Scripting · Admin sys | `▓▓▓░░` Solide |
 
 </div>
 
